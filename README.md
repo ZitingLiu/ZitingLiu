@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZitingLiu
 - 👀 I’m interested in HPC
-- 🌱 I’m currently learning CUDA
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
